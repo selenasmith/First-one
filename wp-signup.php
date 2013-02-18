@@ -55,6 +55,11 @@ get_header();
 
 do_action( 'before_signup_form' );
 ?>
+
+<?php /*?>this is a test<?php */?>
+
+
+
 <div id="content" class="widecolumn">
 <div class="mu_register">
 <?php
