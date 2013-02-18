@@ -1,3 +1,5 @@
+<?php /*?>Another test<?php */?>
+
 <?php
 /**
  * Used to set up and fix common variables and include
